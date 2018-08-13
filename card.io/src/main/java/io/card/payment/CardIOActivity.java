@@ -55,7 +55,7 @@ import io.card.payment.ui.ViewUtil;
  *
  * @version 1.0
  */
-public class CardIOActivity extends Activity {
+public final class CardIOActivity extends Activity {
     /**
      * Boolean extra. Optional. Defaults to <code>false</code>. If set, the card will not be scanned
      * with the camera.
